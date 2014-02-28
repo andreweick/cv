@@ -1,11 +1,13 @@
-Andrew Eick
-===========
-<maeick@missionfocus.com>
-(703) 291-6721
-100 Daingerfield, Suite 400, Alexandria, VA, 22314
+M. Andrew Eick
+==============
+<maeick@missionfocus.com>  
+(703) 291-6721  
+100 Daingerfield, Suite 400, Alexandria, VA, 22314  
 
 ## Biography ##
 Mark Andrew Eick is a technologist dedicated to crafting scientific innovation into practical solutions for the Intelligence Community (IC). With degrees in computer science and philosophy, he started his career in 1995 at Ford Motor Company developing systems to manage the development and printing of service manuals. The system he developed fundamentally changed the production process, improving efficiency and quality and earning him multiple technology awards. In 2003 Mr. Eick became CTO at SSS Research, a DOD contracting startup focused on bringing new visualization techniques to thin client geospatial applications. His innovations optimizing the processing and transmission of geospatial data received multiple software patent awards and were deployed in an operational system which directly contributed to numerous successful missions. In 2008, Mr. Eick started his own company, Mission Focus, focusing on the “Big Data” problems inherent in the IC domain. As CEO he now orchestrates technology and operations at a much larger scale, employing cloud technologies to address the storage and processing of diverse information at tremendous scale. In addition, in 2009 Mr. Eick also co-founded the Institute for Modern Intelligence, a 501(c)(3) non-profit corporation whose mission is to develop the science, practice, and governance of Intelligence at Ultra-Large scale.
+
+-------------------------------------------------------------------------------
 
 ## Position Summary ##
 * Mission Focus, Founder and CEO, 2008 - Present
@@ -15,6 +17,20 @@ Mark Andrew Eick is a technologist dedicated to crafting scientific innovation i
 * Microsoft MVP, Client Application Development, 2007 - 2009
 * Ford Motor Company, Software Engineer, 1995 - 2007
 * UNI/CARE Systems, System Engineer, 1992 - 1995 
+
+## Patent Summary ##
+* **Server-based systems and methods for enabling interactive, collaborative thin-and no-client image-based applications**, Issued March 2007, US Patent: 11/688132
+* **Analysis of time-based geospatial mashups using AD HOC visual queries**, Issued, December 2007, US Patent: 12/005334
+* **Systems and methods for visualizing arguments**, Issued, January 2006, US Patent: 11/331309
+* **Platform for real-time tracking and analysis**, Issued, February 2008, US Patent: 12/070976
+
+## Honors ##
+* 4 patent awards 
+* Trade Secret, Ford Motor Company
+* Vice Presidents select project award, Ford Motor Company
+* Microsoft MVP 
+
+-------------------------------------------------------------------------------
 
 # Select Work Experience #
 
@@ -39,7 +55,7 @@ _Founder and CEO, 2008 - Present, Alexandria, VA_
 
 
 ## Institute for Modern Intelligence ##
-_Co-founder and Chairman, 2009 - Present, Alexandria, VA_
+_Founder and Chairman, 2009 - Present, Alexandria, VA_
 
 * Established business and obtained 501(c)(3) non-profit status
 * Responsible for business operations, fiduciary disclosure, and non-profit status maintenance.
@@ -53,7 +69,7 @@ GeoBoost™ project
 * Led a 6 FTE team to develop and deploy a thin client collaboration and tracking application
 * Architected AJAX geospatial framework to enable spatial awareness
 * Patent:  “server-based systems and methods for enabling interactive, collaborative thin- and no-client image based applications”, November 2006.
-Negotiated and led deployment team for on-site customer installation
+* Negotiated and led deployment team for on-site customer installation
 
 Fusion™ project
 
@@ -66,7 +82,7 @@ DECIDE™ project
 * 3 year project with a $3M budget
 * Patent:  “Systems and methods of Visualizing Arguments”, March 2006
 * IEEE Visual Analytics contest winner, “A tale of Alderwood”, October 2006
-* Led 4 person development and quality assurance team.  Installed development workflow environment (including development workflow, bug tracking system, source control repository)
+* Led 4 person development and quality assurance team.  Defined development workflow environment, including development workflow, bug tracking system, source control repository, and agile process
 
 ## Ford Motor Company ##
 _Software Engineer, 1995-2007, Dearborn, MI_
@@ -80,29 +96,9 @@ _Software Engineer, 1995-2007, Dearborn, MI_
 _System Engineer, 1992 - 1995, Troy, MI_
 * Deployed and maintained UNIX infrastructure for networked health facilities.
 
+-------------------------------------------------------------------------------
 
-## Education ##
-Masters of Science, Computer Science  
-1993 - 1995, Oakland University, Michigan
-
-Bachelor of Science , Computer Science, Philosophy  
-1987 - 1992, Western Michigan University, Michigan
-
-## Paten Summary ##
-* **Server-based systems and methods for enabling interactive, collabortive thin-and no-client image-based applications**, Issued March 2007, US Patent: 11/688132
-* **Analysis of time-based geospatial mashups using AD HOC visual queries**, Issued, December 2007, US Patent: 12/005334
-* **Systems and methods for visualizing arguments**, Issued, January 2006, US Patent: 11/331309
-* **Platform for real-time tracking and analysis**, Issued, February 2008, US Patent: 12/070976
-
-## Honors ##
-* 4 patent awards 
-* Trade Secret, Ford Motor Company
-* Vice Presidents select project award, Ford Motor Company
-* Microsoft MVP 
-
----
-
-### Patens ###
+### Patents ###
 **Server-based systems and methods for enabling interactive, collabortive thin-and no-client image-based applications**, Issued March 2007, US Patent: 11/688132
 
 A server receives image, graphic and/or analytic data and processes and asynchronously outputs that data to a thin/no client. The server inputs image data in a variety of different formats and renders a normalized format that can be streamed to the thin/no client using light-weight protocol(s). The server updates the image, feature and/or analytic data in real time. The server inputs feature, analytic, business logic and other data and process it into various format(s) that can be streamed to the thin/no client and overlaid on the image data.
@@ -122,6 +118,8 @@ Hypotheses are questions of interest to an observer. Evidence are facts that est
 **Platform for real-time tracking and analysis**, Issued, February 2008, US Patent: 12/070976
 
 An apparatus in one example has: at least one of an identification tag and a video feed associated with at least one asset; at least one real time location server that operatively interfaces with the at least one of the identification tag and the video feed; and real-time data analysis and tracking system that ingests asset location data for at least one asset from at least one real time location server. The real time data analysis and tracking system may have a real-time alerting rules engine. Assets being tracked may be organized into at least categories and groups, the categories may be used to manipulate visibility of sets of assets in a portal, and the groups may be used by the real-time alerting rules engine.
+
+-------------------------------------------------------------------------------
 
 ## Select Presentations ##
 * AJAX, SVG, and GeoSpatial awareness, IEEE Aerospace, 2007
