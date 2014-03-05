@@ -11,7 +11,7 @@ Mark Andrew Eick is a technologist dedicated to crafting scientific innovation i
 
 ## Position Summary ##
 * Mission Focus, Founder and CEO, 2008 - Present
-* Institute for Modern Intelligence, Founder and CEO, 2009 - Present
+* Institute for Modern Intelligence, Founder and Chairman, 2009 - Present
 * TexelTek, Inc, Chief Scientists, 2008 - 2009
 * SSS Research, Chief Technology Officer, 2003 - 2008
 * Microsoft MVP, Client Application Development, 2007 - 2009
@@ -37,14 +37,14 @@ Mark Andrew Eick is a technologist dedicated to crafting scientific innovation i
 ## Mission Focus ##
 _Founder and CEO, 2008 - Present, Alexandria, VA_
 
-* Established Mission Focus
-* Number of contracts, IDIQ
+* Established business
 * Obtained GSA schedule 871 Contract
     * Multi SIN Task Order awarded
 * Won 4 IDIQ subcontracts
     * Numerous task order extensions and funding modifications
 * Spoke at numerous conferences on Geospatial analytics and cloud technologies
-* Developed and deployed software to OCONUS sites
+* Thought leader and practicioner for several community cloud efforts
+* Developed and deployed software to both CONOS and OCONUS sites
 * Developed and deployed cloud map/reduce analytics for mission support
 * Member of initial accumulo development team
 * Technical liaison to other community members on cloud technology
