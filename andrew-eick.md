@@ -12,11 +12,15 @@ Mark Andrew Eick is a technologist dedicated to crafting scientific innovation i
 ## Position Summary ##
 * Mission Focus, Founder and CEO, 2008 - Present
 * Institute for Modern Intelligence, Founder and Chairman, 2009 - Present
-* TexelTek, Inc, Chief Scientists, 2008 - 2009
+* TexelTek, Inc, Chief Scientists, 2008
 * SSS Research, Chief Technology Officer, 2003 - 2008
 * Microsoft MVP, Client Application Development, 2007 - 2009
 * Ford Motor Company, Software Engineer, 1995 - 2007
 * UNI/CARE Systems, System Engineer, 1992 - 1995 
+
+## Education Summary ##
+* Masters, Computer Science, Oakland University, 1995
+* Bachelors, Computer Science / Philosophy, Western Michigan University, 1992
 
 ## Patent Summary ##
 * **Server-based systems and methods for enabling interactive, collaborative thin-and no-client image-based applications**, Issued March 2007, US Patent: 11/688132
