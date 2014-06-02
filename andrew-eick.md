@@ -28,11 +28,6 @@ Mark Andrew Eick is a technologist dedicated to crafting scientific innovation i
 * [Systems and methods for visualizing arguments][p3], Issued, January 2006, US Patent: 11/331309
 * [Platform for real-time tracking and analysis][p4], Issued, February 2008, US Patent: 12/070976
 
-[p1]: #server-based-systems-and-methods-for-enabling-interactive-collabortive-thin-and-no-client-image-based-applications
-[p2]: #analysis-of-time-based-geospatial-mashups-using-ad-hoc-visual-queries)
-[p3]: #systems-and-methods-for-visualizing-arguments
-[p4]: #platform-for-real-time-tracking-and-analysis
-
 ## Honors ##
 * 4 patent awards 
 * Trade Secret, Ford Motor Company
@@ -164,3 +159,10 @@ Recently a new class of applications has emerged that uses AJAX and other web pr
 
 **A TALE OF ALDERWOOD, A case study using DECIDE for intelligence analysis.**
 Political corruption seems to be present in several forms: election tampering, unethical behavior, and deception all seem to be present in one form or another during the period of January 2002 – March 2004. Evidence of election tampering is present in the Alderwood Voter Registry. It appears that at least two different individuals have tampered with the registry. Both made mistakes which can be used to identify which records are fraudulent.
+
+
+[p1]: #server-based-systems-and-methods-for-enabling-interactive-collabortive-thin-and-no-client-image-based-applications
+[p2]: #analysis-of-time-based-geospatial-mashups-using-ad-hoc-visual-queries
+[p3]: #systems-and-methods-for-visualizing-arguments
+[p4]: #platform-for-real-time-tracking-and-analysis
+
