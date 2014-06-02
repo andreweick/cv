@@ -23,10 +23,15 @@ Mark Andrew Eick is a technologist dedicated to crafting scientific innovation i
 * Bachelors, Computer Science / Philosophy, Western Michigan University, 1992
 
 ## Patent Summary ##
-* [Server-based systems and methods for enabling interactive, collaborative thin-and no-client image-based applications](#server-based-systems-and-methods-for-enabling-interactive-collabortive-thin-and-no-client-image-based-applications), Issued March 2007, US Patent: 11/688132
-* **Analysis of time-based geospatial mashups using AD HOC visual queries**, Issued, December 2007, US Patent: 12/005334
-* **Systems and methods for visualizing arguments**, Issued, January 2006, US Patent: 11/331309
-* **Platform for real-time tracking and analysis**, Issued, February 2008, US Patent: 12/070976
+* [Server-based systems and methods for enabling interactive, collaborative thin-and no-client image-based applications][p1], Issued March 2007, US Patent: 11/688132
+* [Analysis of time-based geospatial mashups using AD HOC visual queries][p2], Issued, December 2007, US Patent: 12/005334
+* [Systems and methods for visualizing arguments][p3], Issued, January 2006, US Patent: 11/331309
+* [Platform for real-time tracking and analysis][p4], Issued, February 2008, US Patent: 12/070976
+
+[p1]: #server-based-systems-and-methods-for-enabling-interactive-collabortive-thin-and-no-client-image-based-applications
+[p2]: #analysis-of-time-based-geospatial-mashups-using-ad-hoc-visual-queries)
+[p3]: #systems-and-methods-for-visualizing-arguments
+[p4]: #platform-for-real-time-tracking-and-analysis
 
 ## Honors ##
 * 4 patent awards 
