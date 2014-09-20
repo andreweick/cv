@@ -116,7 +116,7 @@ The server provides application services, which can include collaboration, track
 web pages. 
 
 ##### Analysis of time-based geospatial mashups using AD HOC visual queries
-*Issued, December 2007, US Patent: 12/005334*
+*Issued, December 2007, US Patent: 12/005334, also issued as US8230333*
 
 An apparatus in one example has an analytical environment for mashup data having visual analysis metaphors, and linking and correlation functionality among the visual analysis metaphors. A system may have: at least one store having a predetermined floor plan layout; at least one predetermined location on the predetermined floor plan layout for displaying at least one product; analytical environment for mashup data having visual analysis metaphors, the mashup data formed from data indicative of the predetermined floor plan layout, and data indicated of sales of the at least one product; and linking and correlation functionality among the visual analysis metaphors through a web browser. In one example, a plurality of products may be positioned on a plurality of shelves, and may be depicted in a geographical display. Sales of each product may be depicted in a in time line display that is linked to the
 geographical display.
