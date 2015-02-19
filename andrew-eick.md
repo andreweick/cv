@@ -136,12 +136,17 @@ An apparatus in one example has: at least one of an identification tag and a vid
 -------------------------------------------------------------------------------
 
 ## Select Presentations ##
-* AJAX, SVG, and GeoSpatial awareness, IEEE Aerospace, 2007
-* Keynote presentation, Information Managers 2010 Executive Summit, 2010
-* Commercial data ingest strategies, NAB, Government Sector, 2011 
+* The Conceptual Underpinnings for Ultra-Large Scale, Unified Data-space Management, [Oak Ridge National Labs](http://www.ornl.gov) Seminar, February 7, 2012
+* [Defense Geospatial Intelligence](http://dgi.wbresearch.com/), London, UK. Chaired “Creating new value through effective use of Multi-Int” day, January 2012
 * Intelligence in the Cloud, NAB Government Summit, 2012
+* Commercial data ingest strategies, NAB, Government Sector, 2011 
+* Keynote presentation, Information Managers 2010 Executive Summit, 2010
+* AJAX, SVG, and GeoSpatial awareness, IEEE Aerospace, 2007
 
 ## Select Publications ##
+
+**Cloud Computing in the Intelligence Community**, 2013
+In this article, I will not bore you with Gartner’s definition of cloud, or NIST’s, or DISA’s - not that those aren’t thoughtfully crafted. It’s just that they only make sense if you share Gartner, NIST, or DISA’s repertoire of definitions, meanings, and analogies, which few actual human beings do. Besides, we’re past that now. We all know what cloud is. And yet, as you sit in meetings with leaders, managers, vendors, and developers, the perception of what cloud computing is, and brings to the Intelligence Community, is all over the map. It seems there’s a kind of schizophrenia to this cloud business - particularly in the Intelligence Community. And that’s because there are two very different kinds of clouds being talked about in this domain. The utility computing cloud and the compute and storage cloud.
 
 **thincVIew™: Putting Visual Intelligence on the Map**, 2007
 The focus of “Business Intelligence” is to enable corporations to analyze business data and gain insights that result in better business performance. One type of data that is underutilized by corporations is that involving locations. It is estimated that 80% of all data maintained by corporations has a location component, either directly involving longitude and latitude or indirectly by geo-encoding information such as addresses. To analyze geospatial business data, we have developed a thin client Web 2.0 AJAX platform called thincVIew™. Using thincVIew it is possible to develop rich mashup analytical sites. Although thincVIew is superficially similar to Google Maps and Microsoft’s Live Maps, the difference is that thincVIew’s API is designed for analysis and correlation rather than providing directions and serving up ads. In this paper we describe thincVIew and illustrate its use in a retail case study analyzing customers and store locations and shelf-level inventory and sales performance.
