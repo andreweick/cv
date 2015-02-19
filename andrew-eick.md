@@ -29,10 +29,7 @@ In 2008, Mr. Eick started his own company, Mission Focus, focusing on the “Big
 * Bachelors, Computer Science / Philosophy, Western Michigan University, 1992
 
 ## Patent Summary ##
-* [Server-based systems and methods for enabling interactive, collaborative thin-and no-client image-based applications][p1]
-
-[//]: # Issued March 2007, US Patent: 11/688132
-
+* [Server-based systems and methods for enabling interactive, collaborative thin-and no-client image-based applications][p1], Issued March 2007, US Patent: 11/688132
 * [Analysis of time-based geospatial mashups using AD HOC visual queries][p2], Issued, December 2007, US Patent: 12/005334
 * [Systems and methods for visualizing arguments][p3], Issued, January 2006, US Patent: 11/331309
 * [Platform for real-time tracking and analysis][p4], Issued, February 2008, US Patent: 12/070976
