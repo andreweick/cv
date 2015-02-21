@@ -1,10 +1,9 @@
 M. Andrew Eick
 ==============
-[100 Daingerfield, Suite 400, Alexandria, VA, 22314](http://goo.gl/gSnBwR)  
+[100 Daingerfield, Suite 400, Alexandria, VA, 22314](http://goo.gl/gSnBwR)  <!-- https://www.google.com/maps/place/Mission+Focus/@38.8058376,-77.0613239,17z/data=!4m7!1m4!3m3!1s0x89b7b1aa810845eb:0x2352bd9112782748!2sMission+Focus!3b1!3m1!1s0x0000000000000000:0x2352bd9112782748
+ -->
 (703) 291-6721  
 <maeick@missionfocus.com>  
-
-[//]: # Full URL of map is https://www.google.com/maps/place/Mission+Focus/@38.8058376,-77.0613239,17z/data=!4m7!1m4!3m3!1s0x89b7b1aa810845eb:0x2352bd9112782748!2sMission+Focus!3b1!3m1!1s0x0000000000000000:0x2352bd9112782748
 
 ## Biography ##
 Mark Andrew Eick is a technologist dedicated to crafting scientific innovation into practical solutions for the Intelligence Community (IC). With degrees in computer science and philosophy, he started his career in 1995 at Ford Motor Company developing systems to manage the development and printing of service manuals. The system he developed fundamentally changed the production process, improving efficiency and quality and earning him multiple technology awards. 
@@ -145,10 +144,8 @@ An apparatus in one example has: at least one of an identification tag and a vid
 
 ## Select Publications ##
 
-**Cloud Computing in the Intelligence Community**, 2013
+**Cloud Computing in the Intelligence Community**, 2013 <!--, http://www.tdan.com/view-articles/16901 -->
 In this article, I will not bore you with Gartner’s definition of cloud, or NIST’s, or DISA’s - not that those aren’t thoughtfully crafted. It’s just that they only make sense if you share Gartner, NIST, or DISA’s repertoire of definitions, meanings, and analogies, which few actual human beings do. Besides, we’re past that now. We all know what cloud is. And yet, as you sit in meetings with leaders, managers, vendors, and developers, the perception of what cloud computing is, and brings to the Intelligence Community, is all over the map. It seems there’s a kind of schizophrenia to this cloud business - particularly in the Intelligence Community. And that’s because there are two very different kinds of clouds being talked about in this domain. The utility computing cloud and the compute and storage cloud.
-
-[//]: # http://www.tdan.com/view-articles/16901
 
 **thincVIew™: Putting Visual Intelligence on the Map**, 2007
 The focus of “Business Intelligence” is to enable corporations to analyze business data and gain insights that result in better business performance. One type of data that is underutilized by corporations is that involving locations. It is estimated that 80% of all data maintained by corporations has a location component, either directly involving longitude and latitude or indirectly by geo-encoding information such as addresses. To analyze geospatial business data, we have developed a thin client Web 2.0 AJAX platform called thincVIew™. Using thincVIew it is possible to develop rich mashup analytical sites. Although thincVIew is superficially similar to Google Maps and Microsoft’s Live Maps, the difference is that thincVIew’s API is designed for analysis and correlation rather than providing directions and serving up ads. In this paper we describe thincVIew and illustrate its use in a retail case study analyzing customers and store locations and shelf-level inventory and sales performance.
